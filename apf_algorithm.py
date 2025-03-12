@@ -741,6 +741,6 @@ def APF(WIDTH: int, HEIGHT: int, q_star: int, num_sensors: int, number_of_drones
             break
         number += 1
 
-
+# Example implementation
 APF(800, 800, 20, 6, 8, 150)
 
